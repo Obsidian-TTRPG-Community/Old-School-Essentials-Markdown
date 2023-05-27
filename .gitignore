@@ -1,0 +1,11 @@
+# Block Obsidian
+
+/.obsidian/
+/.trash/
+
+
+# Block IDE's
+
+/.idea/
+/.vscode/
+
