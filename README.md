@@ -10,6 +10,10 @@ With permission from [@OldManUmby](https://github.com/OldManUmby/OSE.SRD.Wiki), 
 2. Open the folder in Obsidian.
 3. Profit, for now.
 
+## Homebrew? Templates? Note upgrades?!
+
+Yes, we want them. Feel free to submit a PR.
+
 
 ## Legal
 
