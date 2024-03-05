@@ -16,7 +16,8 @@ If successful, The Old School Essentials layout will appear in your list of layo
 
 Use the following codeblock below to create your Statblock entry. 
 
-```yaml
+````yaml
+```statblocks
 name: 
 layout: OSE_en
 subtype:
@@ -51,3 +52,4 @@ actions:
     desc: D20 to hit, 2 (1d3) 
 source: OSE
 ```
+````
