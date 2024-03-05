@@ -16,7 +16,7 @@ If successful, The Old School Essentials layout will appear in your list of layo
 
 Use the following codeblock below to create your Statblock entry. 
 
-```markdown
+```yaml
 name: 
 layout: OSE_en
 subtype:
