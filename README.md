@@ -14,6 +14,9 @@ With permission from [@OldManUmby](https://github.com/OldManUmby/OSE.SRD.Wiki), 
 
 Yes, we want them. Feel free to submit a PR.
 
+## Translations
+
+**French**: [Fredben](https://github.com/fredben78) Maintains a French version of the OSE, [here](https://github.com/fredben78/OSE-Obsidian).
 
 ## Legal
 
